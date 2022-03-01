@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iniunccions geue[n] by the moste excellent prince, Edward the Sixte, by the grace of God, kyng of England, Frau[n]ce and Irelande: defendor of the faithe, and in yearthe vnder Christ, of the Churche of Englande and of Ireland, the supreme hedde: to all and singuler his louyng subiectes, aswell of the clergie, as of the laietie..</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1547</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07622</idno>
+            <idno type="OCLC"> 180867020</idno>
+            <idno type="STC">STC 10090</idno>
+            <idno type="STC">ESTC S92258</idno>
+            <idno type="EEBO-CITATION">180867020</idno>
+            <idno type="OCLC">ocn 180867020</idno>
+            <idno type="VID">191709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2283:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iniunccions geue[n] by the moste excellent prince, Edward the Sixte, by the grace of God, kyng of England, Frau[n]ce and Irelande: defendor of the faithe, and in yearthe vnder Christ, of the Churche of Englande and of Ireland, the supreme hedde: to all and singuler his louyng subiectes, aswell of the clergie, as of the laietie..</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+                  <author>Edward VI, King of England, 1537-1553.</author>
+               </titleStmt>
+               <extent>[26] p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Grafton,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1547 31 July].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC (2nd ed.).</note>
+                  <note>Signatures: a-c⁴ d² (d₂ lacking?).</note>
+                  <note>Leaf b₄r has catchword "Testament." (with stop), line 5 ends "otherwise ordered and".</note>
+                  <note>Title within ornamental border (McK. &amp; Ferg. 62); initials.</note>
+                  <note>Imperfect: colophon leaf lacking?</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Ecclesiastical law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191709:1"/>
+            <pb facs="tcp:191709:1" rendition="simple:additions"/>
+            <p>
+               <hi>INIVNCCI<g ref="char:EOLhyphen"/>ons</hi> geue<g ref="char:cmbAbbrStroke">̄</g> by the moſte ex<g ref="char:EOLhyphen"/>cellent prince, Edward the ſixte, by the grace of God, kyng of England, Frau<g ref="char:cmbAbbrStroke">̄</g>ce and Irelande: defendor of the Faithe, and in yearthe vnder Chriſt, of the chur<g ref="char:EOLhyphen"/>che of Englande and of Ireland the ſupreme hedde: To all and ſinguler his lo<g ref="char:EOLhyphen"/>uyng ſubiec<g ref="char:EOLhyphen"/>tes, aſwell of the Clergie, as of the Laietie.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191709:2" rendition="simple:additions"/>
+            <pb facs="tcp:191709:2"/>
+            <head>¶ Iniunccio<g ref="char:cmbAbbrStroke">̄</g>s geuen by the moſte ex<g ref="char:EOLhyphen"/>cellent Prince, Edward the .VI. by the grace of GOD, kyng of England, Fraunce, and Ireland: defen<g ref="char:EOLhyphen"/>dor of the faith, and in yearth vnder Chriſt, of the Churche of Englande and of Irelande, the ſupreme hedde: to all and ſynguler his louyng Subiectes, aſ well of the Clergie, as of the Laitie.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Kynges mooſte roy<g ref="char:EOLhyphen"/>all Maieſtie, by the aduiſe of his moſt dere vncle, the duke of Somerſet, Lorde Protec<g ref="char:EOLhyphen"/>tor of all his Realmes, Do<g ref="char:EOLhyphen"/>minions, and ſubiectes, and Gouernor of his moſte roiall perſone, and the reſidewe of his moſte honorable counſaill, intendyng thad<g ref="char:EOLhyphen"/>uauncement of the true honor of almightie God the ſuppreſſion of Idolatrie, and Superſticion, throughout all his Realmes and Dominions, and to plant true Religion, to the extirpacion of all Hypocryſy, enormities, and abuſes, as to his duetie apperteineth: Doth miniſter vnto his lo<g ref="char:EOLhyphen"/>uyng ſubiectes, theſe Godly Iniunccio<g ref="char:cmbAbbrStroke">̄</g>s, hereaf<g ref="char:EOLhyphen"/>ter folowyng: Whereof, parte were geuen vnto theim heretofore, by aucthoritie of his moſte de<g ref="char:EOLhyphen"/>rely beloued father, Kyng Henry the eighte, of moſte famous memorie, and parte are nowe mi<g ref="char:EOLhyphen"/>niſtered and geuen by his Maieſtie. All whiche Iniunccions, his highnes willeth and commau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>deth his ſaied louyng ſubiectes, by his ſupreme aucthoritie, obediently to receiue, and truely to obſerue and kepe, euery man in their offices, de<g ref="char:EOLhyphen"/>grees,
+<pb facs="tcp:191709:3"/> and ſtates, as thei wil auoyde his diſplea<g ref="char:EOLhyphen"/>ſure, and the paynes in theſame Iniunccions, hereafter expreſſed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>THE</hi> firſte is, that all Deanes, Achedeaco<g ref="char:cmbAbbrStroke">̄</g>s, Perſones, Vicars, and other Eccleſiaſticall per<g ref="char:EOLhyphen"/>ſones, ſhall faithfully kepe and obſerue, and as far as in them maie lie, ſhal cauſe to be obſerued and kept of other, al &amp; ſinguler lawes and ſtatu<g ref="char:EOLhyphen"/>tes, made aſwel for the aboliſhyng and extirpa<g ref="char:EOLhyphen"/>cion of the biſhop of Rome, his pretenſed and v<g ref="char:EOLhyphen"/>ſurped power and iuriſdiccion, as for the eſtabli<g ref="char:EOLunhyphen"/>ſhement and confirmacion of the kynges autho<g ref="char:EOLhyphen"/>ritie, iuriſdiccio<g ref="char:cmbAbbrStroke">̄</g> and ſupremacie of the church of England, &amp; Ireland. And furthermore, all eccle<g ref="char:EOLhyphen"/>ſiaſticall perſones, hauyng cure of ſoule, ſhall to the vttermoſte of their wit, knowledge, and lear<g ref="char:EOLhyphen"/>nyng purely, ſyncerely, and without any colour or diſſimulacion, declare, manifeſt, and open, iiij. tymes euery yere at the leaſt, in their Sermons, and other collacions, that the biſhop of Romes vſurped power and iuriſdiccio<g ref="char:cmbAbbrStroke">̄</g>, hauyng no eſta<g ref="char:EOLhyphen"/>bliſhement nor ground by the lawe of God, was of moſte iuſt cauſes, taken awaie and aboliſhed, and that therfore, no maner of obedience or ſub<g ref="char:EOLhyphen"/>ieccion, within his Realmes and Dominions, is dewe vnto hym. And that the Kynges power, within his Realmes and Dominions, is the higheſt power vnder GOD, to whom all men, within theſame Realmes and Dominions, by Godes lawes owe moſte loyaltie and obedience, afore and aboue all other powers and potenta<g ref="char:EOLhyphen"/>tes
+<pb facs="tcp:191709:3"/> in yearth.</p>
+            <p>
+               <hi>BESIDES</hi> this, to the intent that all Su<g ref="char:EOLhyphen"/>perſticion and Hypocriſy, crept into diuerſe men<g ref="char:EOLunhyphen"/>nes hartes, maie vaniſh awaie, thei ſhall not ſet<g ref="char:EOLhyphen"/>furthe or extoll any Images, Reliques, or mira<g ref="char:EOLhyphen"/>cles, for any Superſticion or lucre, nor allure the people by any inticementes, to the Pilgri<g ref="char:EOLhyphen"/>mage of any ſainct or ymage: but reprouyng the ſame, thei ſhall teache, that all goodneſſe, healthe and grace, ought to be both aſked and loked for onely of God, as of the verie aucthor and geuer of theſame, and of none other.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>ITEM,</hi> that thei, the perſones aboue reherſed ſhall make or cauſe to bee made in their Chur<g ref="char:EOLhyphen"/>ches, and euery other Cure thei haue, one Ser<g ref="char:EOLhyphen"/>mon, euery quarter of the yere at the leaſt, wher<g ref="char:EOLhyphen"/>in thei ſhall purely and ſyncerely, declare the woorde of GOD: and in theſame, exhorte their hearers to the woorkes of Faithe, Mercie, and Charitie, ſpecially preſcribed and commaunded in ſcripture, and that woorkes deuiſed by man<g ref="char:EOLhyphen"/>nes pha<g ref="char:cmbAbbrStroke">̄</g>taſies, beſides ſcripture: as wanderyng to pilgrimages, offeryng of money, candelles or tapers, to Reliques, or Images, or kiſſyng and lickyng of theſame, praiyng vpon Beades, or ſuche like ſuperſticio<g ref="char:cmbAbbrStroke">̄</g>, haue not onely no promiſe of reward in ſcripture, for doyng of the<g ref="char:cmbAbbrStroke">̄</g>: but con<g ref="char:EOLhyphen"/>trariwiſe, great threates &amp; malediccions of God for that thei bee thynges, tendyng to Idolatrie and ſuperſticio<g ref="char:cmbAbbrStroke">̄</g>, whiche, of al other offences, god almightie doth moſt deteſt and abhorre for that
+<pb facs="tcp:191709:4"/> theſame diminiſhe moſte his honor and glorie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>ITEM,</hi> that ſuche Images, as thei knowe in any of their Cures, to bee, or haue been ſo abu<g ref="char:EOLhyphen"/>ſed with pilgrimage or offrynges, of any thyng made thereunto, or ſhalbee hereafter cenſed vn<g ref="char:EOLhyphen"/>to, thei (and none other priuate perſones) ſhall, for the auoydyng of that moſte deteſtable offe<g ref="char:cmbAbbrStroke">̄</g>ce of Idolatrie, furthewith take doune or cauſe to be taken doune, and deſtroye theſame, and ſhall ſuffre from henſefurthe, no Torches, nor Can<g ref="char:EOLhyphen"/>delles, Tapers or Images of waxe, to be ſette a<g ref="char:EOLhyphen"/>fore any Image or picture, but onely two ligh<g ref="char:EOLhyphen"/>tes vpon the high aulter, before the Sacrament whiche, for the ſignificacion, that Chriſte is the verie true light of the worlde, thei ſhall ſuffre to remain ſtill: Admoniſhyng their pariſhioners, that Images ſerue for no other purpoſe, but to be a remembraunce, wherby, men maie be admo<g ref="char:EOLhyphen"/>niſhed, of the holy lifes and conuerſacio<g ref="char:cmbAbbrStroke">̄</g> of them that theſaied Images doo repreſent: whiche I<g ref="char:EOLhyphen"/>mages, if thei do abuſe for any other intent, thei commit Idolatrie in theſame, to the great daun<g ref="char:EOLhyphen"/>gier of their ſoules.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>ITEM,</hi> that euery holy daie throughout the yere, when thei haue no Sermon, thei ſhall im<g ref="char:EOLhyphen"/>mediatly after the Goſpell, openly and plainly, recite to their pariſhioners in the pulpit: The <hi>Pater noſter,</hi> the <hi>Credo,</hi> and the tenne Commaun<g ref="char:EOLhyphen"/>dementes in Engliſhe, to the intent the people maie learne theſame by harte: exhortyng all pa<g ref="char:EOLhyphen"/>rentes and houſholders, to teache their children
+<pb facs="tcp:191709:4"/> and ſeruau<g ref="char:cmbAbbrStroke">̄</g>tes theſame, as thei are bound by the lawe of God, and in conſcience to do.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+               <hi>ITEM,</hi> that thei ſhall charge fathers and Mothers, Maſters and gouernors, to beſtowe their children and Seruauntes, euen from their childhode, either to learnyng, or to ſome honeſt exerciſe, occupacion or huſbandrie: Exhortyng and counſailyng, and by all the waies and mea<g ref="char:EOLhyphen"/>nes thei maie, aſwell in their Sermons and col<g ref="char:EOLhyphen"/>lacions, as otherwaies, perſwadyng their ſaied Fathers and Mothers, Maſters, and other Go<g ref="char:EOLhyphen"/>uernors, diligentely to prouide and forſee, that the youthe bee in no maner of wiſe, brought vp in idlenes, leaſt at any tyme afterward, for lacke of ſome craft, occupacion, or other honeſt meane to liue by, thei be driuen to fall to beggyng, ſtea<g ref="char:EOLhyphen"/>lyng, or ſome other vnthriftineſſe: For aſmuche as we maie daily ſe, through ſlothe and idlenes, diuerſe valiaunt men fall, ſome to beggyng, and ſome to thefte and murdre, whiche after brought to calamitie and miſerie, doo blame their paren<g ref="char:EOLhyphen"/>tes, frendes and gouernors, whiche ſuffered them, to be brought vp ſo idlely in their youthe, where, if thei had been well brought vp, in good learnyng, ſome occupacion, or crafte, thei ſhould (beeyng rulers of their awne houſholde) haue proffited aſwell themſelfes, as diuerſe other per<g ref="char:EOLhyphen"/>ſones, to the greate commoditie and ornament of the common wealthe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+               <hi>ALSO,</hi> that theſaied perſones, Vicars, and other Curates, ſhall diligently prouide, that the
+<pb facs="tcp:191709:5"/> Sacramentes, be duely and reuerently miniſte<g ref="char:EOLhyphen"/>red in their Pariſhes. And if at any tyme it hap<g ref="char:EOLhyphen"/>pen, theim in any of the caſes expreſſed in the ſta<g ref="char:EOLhyphen"/>tutes of this Realme, or of ſpeciall licence geuen by the Kynges Maieſtie, to be abſent from their benefices, thei ſhall leaue their Cure, not to a rude and vnlearned perſon, but to an honeſt wel learned and experte Curate, that can by his ha<g ref="char:EOLhyphen"/>bilitie, teache the rude and vnlearned of their cure, holeſome doctryne, and reduce theim to the right way that do erre, and whiche will alſo exe<g ref="char:EOLhyphen"/>cute theſe Iniunccions, and doo their duetie o<g ref="char:EOLhyphen"/>therwiſe, as thei are bounde to doo in euery be<g ref="char:EOLhyphen"/>halfe: and accordyngly maie and will proflite their cure, no leſſe with good example of liuyng, then with the declaracion of the woorde of God, or els their lacke and defaulte, ſhalbee imputed vnto them, who ſhall ſtraightly aunſwere for the ſame if thei do otherwiſe. And alwaies let theim ſee, that neither thei nor their Curates, doo ſeke more their awne proffite, promocion, or aduaun<g ref="char:EOLunhyphen"/>tage, then the proffit of the ſoules, that thei haue vnder their Cure or the glory of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> 
+               <hi>ALSO,</hi> that thei ſhall prouide, within three monethes, nexte after this viſitacion, one booke of the whole Bible, of the largeſt volume in En<g ref="char:EOLhyphen"/>gliſhe. And within one twelfe monethes, next af<g ref="char:EOLhyphen"/>ter the ſaied viſitacion, the Paraphraſis of E<g ref="char:EOLhyphen"/>raſmus alſo in Engliſhe vpon the Goſpelles, and theſame ſette vp, in ſome conuenient place, within the ſaied Churche, that thei haue cure of,
+<pb facs="tcp:191709:5"/> whereas their pariſhioners may moſte co<g ref="char:cmbAbbrStroke">̄</g>mo<g ref="char:EOLhyphen"/>diouſly, reſorte vnto theſame, &amp; reade theſame. The charges of whiche bokes ſhalbe ratably borne, betwene the Perſon or approprietary, and the pariſhioners aforeſayd, that is to ſay, the one halfe by the Perſon or proprietary, &amp; the other halfe, by the paryſhyoners. And they ſhall diſcourage no man (auctoriſed and licen<g ref="char:EOLhyphen"/>ced thereto) from the readynge of any parte of the Bible, either in Latyn or in Engliſhe: But ſhall rather conforme and exhorte euery per<g ref="char:EOLhyphen"/>ſone to reade theſame, as y<hi rend="sup">e</hi> very liuely worde of God, and the ſpeciall foode of mans ſoule, that all chriſtian perſones are bounde to em<g ref="char:EOLhyphen"/>brace, beleue, &amp; folowe, if they loke to beſaued: Wherby they may the better knowe their due<g ref="char:EOLhyphen"/>ties to God, to their ſouereigne lord y<hi rend="sup">e</hi> Kyng, and theyr neighbour, euer gentilly and chari<g ref="char:EOLhyphen"/>tably exhortynge theim, and in hys Maieſties name, ſtraightly charginge and co<g ref="char:cmbAbbrStroke">̄</g>maunding theim, that in the readynge therof, no man to reaſon or contende, but quyetly to heare the reader.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> 
+               <hi>ALSO,</hi> the ſayde Eccleſiaſticall perſons, ſhal in no wyſe, at any vnlaufull tyme, nor for any other cauſe, the<g ref="char:cmbAbbrStroke">̄</g> for their honeſt neceſſitie, hau<g ref="char:cmbAbbrStroke">̄</g>te or reſorte to any Tauernes, or Alehou<g ref="char:EOLhyphen"/>ſes. And after their dynner and ſupper, they ſhal not geue the<g ref="char:cmbAbbrStroke">̄</g> ſelfes to drinckyng or tyot, ſpe<g ref="char:cmbAbbrStroke">̄</g>dyng their tyme ydely, by day or by night, at dyſe, cardes, or tables plaiyng, or any other
+<pb facs="tcp:191709:6"/> vnlaufull game: But at all tymes, as they ſhall haue leaſure, they ſhall heare or reade ſomwhat of holy ſcripture, or ſhall occupie the<g ref="char:cmbAbbrStroke">̄</g> ſelfes with ſome other honeſt exerciſe, and that they alwayes do the thinges, whiche apper<g ref="char:EOLhyphen"/>teyne to honeſty, with endeuour to profite the common weale, hauynge alwayes in mynde, that they ought to excel all other, in puritie of lyfe, and ſhoulde be example to the people, to lyue well and chriſtianly.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> 
+               <hi>ITEM,</hi> that they ſhall in confeſſions euery Lent, examine euery perſon, that cometh to co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>feſſion to theim, whether they ca<g ref="char:cmbAbbrStroke">̄</g> recite the ar<g ref="char:EOLhyphen"/>ticles of their Fayth, the <hi>Pater noſter,</hi> and the tenne commaundementes in Engliſhe, &amp; heare the<g ref="char:cmbAbbrStroke">̄</g> ſaye the ſame particularlie, wherin, if they be not perfite, they ſhall declare then, that euery chriſtian perſonne, oughte to knowe the ſayde thynges, before they ſhoulde receyue the bleſſed Sacrament of the aulter, and monyſh them to learne the ſaid neceſſary thinges, more perfitely, or els they ought not to preſume to come to Gods bourde, without perfite know<g ref="char:EOLhyphen"/>ledge, and will to obſerue theſame: and if they do, it is to the great periel of their ſoules, and alſo to the worldly rebuke, that they might in<g ref="char:EOLhyphen"/>curre hereafter by theſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> 
+               <hi>ALSO,</hi> that they ſhall admitte no man to preache, within any theyr cures, but ſuche as ſhall appeare vnto them, to be ſufficiently li<g ref="char:EOLhyphen"/>cenced therunto, by the Kynges Maieſtie, the
+<pb facs="tcp:191709:6"/> lorde Protectors grace, the Archebiſhop of Canterbury, the Archebiſhop of Yorke in hys prouince, or the Byſhop of the Dyoceſſe. And ſuche as ſhalbe ſo licenced, they ſhall gladly receyue, to declare the woorde of God, without any reſiſtence, or contradiction.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> 
+               <hi>ALSO,</hi> if they haue heretofore declared to their paryſhyoners any thynge, to the extol<g ref="char:EOLhyphen"/>linge, or ſetting furth of pilgrimages, reliques or ymages, or lighting of ca<g ref="char:cmbAbbrStroke">̄</g>dels, kiſſinge, kne<g ref="char:EOLhyphen"/>ling decking of theſame ymages, or any ſuche ſuperſticion, they ſhall now openly, before the ſame, recante, and reproue the ſame: ſhewynge them (as the trueth is) that they did the ſame vpon no grounde of ſcripture, but were ledde and ſeduced by a co<g ref="char:cmbAbbrStroke">̄</g>mon error and abuſe, crept into the churche, through the ſufferaunce &amp; a<g ref="char:EOLhyphen"/>uarice of ſuche, as felt profite by theſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> 
+               <hi>ALSO,</hi> if they do, or ſhall knowe any man within their pariſhe, or els where, that is a let<g ref="char:EOLhyphen"/>ter of the woorde of God, to be redde in En<g ref="char:EOLhyphen"/>gliſhe, or ſyncerely preached, or of the execucio<g ref="char:cmbAbbrStroke">̄</g> of theſe the Kynges mateſties Iniunccions, or a fautor of the byſhop of Romes pretenſed power, now by the lawes of this realme, iuſtly reiected, extirped, and take<g ref="char:cmbAbbrStroke">̄</g> away vtterly, they ſhall detecte, and preſent theſame, to the Kyng or hys counſaill, or to the iuſtice of peace nexte adioyninge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> 
+               <hi>ALSO,</hi> that the Perſone, Vicar, or Curate, and pariſhyoners of euery paryſhe, within
+<pb facs="tcp:191709:7"/> this realme, ſhall in their Churches and Cha<g ref="char:EOLhyphen"/>pels, kepe one boke, or regiſter, wherin they ſhal write the day and yere, of euery wedding, chriſtenynge, and buryall, made within their pariſhe for their tyme, and ſo euery man ſuc<g ref="char:EOLhyphen"/>cedynge theim lykewyſe: and alſo therin ſhal wryte euery perſons name, that ſhalbe ſo wed<g ref="char:EOLhyphen"/>ded, chriſtened, or buryed. And for the ſaufe ke<g ref="char:EOLhyphen"/>ping of theſame boke, y<hi rend="sup">e</hi> pariſhe ſhalbe bou<g ref="char:cmbAbbrStroke">̄</g>de to prouide of their co<g ref="char:cmbAbbrStroke">̄</g>mon charges, one ſure cofer, with two lockes and keyes, wherof, the one to remayne with the Perſon, Vicar, or Cu<g ref="char:EOLhyphen"/>rate, &amp; the other with the Wardeynes of euery pariſhe Churche or Chapel, wherin the ſayde boke ſhalbe layde vp: whiche boke they ſhall euery ſondaye take furth, and in the preſence of the ſayde Wardeyns, or one of them, wryte &amp; recorde in theſame, al the weddinges, chriſte<g ref="char:EOLhyphen"/>nynges, and buryalles, made the whole weeke before, and that done, to lay vp the boke in the ſayd cofer, as afore. And for euery tyme, that theſame ſhalbe omitted, the partye that ſhalbe in the faulte therof, ſhall forfaicte to the ſayde church .iii. s<g ref="char:cmbAbbrStroke">̄</g> .iiii. <abbr>d</abbr>, to be employed to the poore mens boxe, of that pariſhe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> 
+               <hi>FVRTHERMORE,</hi> becauſe the goodes of the churche, are called the goodes of y<hi rend="sup">e</hi> pore, and at theſe dayes, nothynge is leſſe ſene, then the pore to be ſuſteyned with theſame: al Per<g ref="char:EOLhyphen"/>ſons, Vicars, Pencionaries, Prebendaries, &amp; other beneficed men, within this deanry, not
+<pb facs="tcp:191709:7"/> beynge reſident vpon their benefices, whiche may diſpe<g ref="char:cmbAbbrStroke">̄</g>de yerely .xx. <abbr>l.</abbr> or aboue, either with<g ref="char:EOLhyphen"/>in this deanry, or els where, ſhall diſtribute hereafter, emong their poore pariſhyoners, or other inhabitauntes there, in the preſence of y<hi rend="sup">e</hi> church wardeyns, or ſome other honeſt men of the pariſhe, the fortye parte of the fruictes and reuenues of their ſayde benefices, leaſte they be worthely noted of ingratitude, whiche reſeruinge ſo many partes to themſelfes, can<g ref="char:EOLhyphen"/>not voucheſafe, to imparte the forty porcion therof, emo<g ref="char:cmbAbbrStroke">̄</g>g the poore people of that pariſhe, that is ſo fruicteful, and profitable vnto the<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> 
+               <hi>AND</hi> to the intent, that learned men maye hereafter ſpringe the more for the execucion of the premiſſes, euery Perſon, Vicar, clerke, or beneficed man, within thys deanry, hauynge yerely to diſpende in benefices, and other pro<g ref="char:EOLhyphen"/>mocions of the churche, an .C. <abbr>l.</abbr> ſhall geue co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pete<g ref="char:cmbAbbrStroke">̄</g>t exhibicio<g ref="char:cmbAbbrStroke">̄</g> to one ſcholar: and for aſmany hundred poundes more, as he maye diſpende, to ſo many ſcholars more, ſhal geue lyke exhi<g ref="char:EOLhyphen"/>bicion, in the vniuerſitie of Oxford, or Cam<g ref="char:EOLhyphen"/>bridge, or ſome gra<g ref="char:cmbAbbrStroke">̄</g>mer ſchole, which after they haue proffited in good learning, may be par<g ref="char:EOLhyphen"/>teners of their patrones cure and charge, aſ<g ref="char:EOLhyphen"/>well in preachynge, as otherwiſe in the execu<g ref="char:EOLhyphen"/>cion of their offices: or may when nede ſhalbe, otherwiſe proffite the co<g ref="char:cmbAbbrStroke">̄</g>mon weale, with their counſaill and wiſedome.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> 
+               <hi>ALSO,</hi> that all proprietaries, Perſones,
+<pb facs="tcp:191709:8"/> Vicars, and Clerkes, hauynge churches, cha<g ref="char:EOLhyphen"/>pels or manſions, within thys deanry, ſhal be<g ref="char:EOLhyphen"/>ſtowe yerely hereafter, vpon theſame manſio<g ref="char:cmbAbbrStroke">̄</g>s or Chauncelles of their churches, being in de<g ref="char:EOLhyphen"/>caye, the fifth parte of that their benefices, till they be fullye repaired. And theſame ſo repai<g ref="char:EOLhyphen"/>red, ſhal alwayes kepe and mainteyne in good eſtate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> 
+               <hi>ALSO,</hi> that the ſayde Perſons, Vicars, and clerkes, ſhall once, euery quarter of the yere, reade theſe Iniunccio<g ref="char:cmbAbbrStroke">̄</g>s geuen vnto them openly and deliberately, before all their pari<g ref="char:EOLhyphen"/>ſhyoners, to the intent, that both they maye be the better admoniſhed of their duetye, &amp; theyr ſayd pariſhyoners the more moued, to folowe theſame for their parte.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> 
+               <hi>ALSO,</hi> for aſmuch, as by a lawe eſtabliſ<g ref="char:EOLhyphen"/>ſhed, euery man is bou<g ref="char:cmbAbbrStroke">̄</g>de to pay hys tithes, no man ſhall by colour of duety omitted by their curates, deteigne their tithes, and ſo redubbe and requite one wro<g ref="char:cmbAbbrStroke">̄</g>ge with another, or be hys awne Iudge, but ſhall truely pay theſame, as he hath been accuſtomed, to theyr perſons, vi<g ref="char:EOLhyphen"/>cars, and curates, without any reſtrainte or diminucion. And ſuche lacke and default, as they can iuſtely fynde in their perſons and cu<g ref="char:EOLhyphen"/>rates, to cal for reformacion therof, at their or<g ref="char:EOLhyphen"/>dinaries and other ſuperiors ha<g ref="char:cmbAbbrStroke">̄</g>des, who, vpo<g ref="char:cmbAbbrStroke">̄</g> complaint, and due profe therof, ſhall refour<g ref="char:EOLhyphen"/>me theſame accordingly.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> 
+               <hi>ALSO,</hi> that no perſone ſhall from henſ<g ref="char:EOLhyphen"/>furth,
+<pb facs="tcp:191709:8"/> altre or chaunge the ordre and maner of any faſtyng daye that is commaunded, nor of co<g ref="char:cmbAbbrStroke">̄</g>mon prayer or diuine ſeruice, otherwiſe then is ſpecified in theſe Iniunccio<g ref="char:cmbAbbrStroke">̄</g>s, vntil ſuch ty<g ref="char:EOLhyphen"/>me as theſame, ſhalbe otherwiſe ordered and tranſpoſed, by the Kynges auctoritie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> 
+               <hi>ALSO,</hi> that euery Perſon, Vicar, Curate, Chauntry preeſte and ſtipendarye, being vn<g ref="char:EOLhyphen"/>der the degree of bachilar of Diuinitie, ſhall prouyde, and haue of hys awne, within three monethes after this viſitacion, the new Teſta<g ref="char:EOLhyphen"/>ment, both in Latyn and in Engliſh, with Pa<g ref="char:EOLhyphen"/>raphraſis vpon theſame of Eraſmus, and di<g ref="char:EOLhyphen"/>ligently ſtudye theſame, conferringe the one with the other. And the Biſhoppes, and other ordynaryes by them ſelfes. or their officers, in their ſynodes and viſitacions, ſhall examyne the ſayde eccleſiaſticall perſones, howe they haue proffited in the ſtudye of holy ſcripture.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> 
+               <hi>ALSO,</hi> in the tyme of highe maſſe, within euery churche, he that ſayeth or ſingeth the ſame, ſhall reade, or cauſe to be redde, the Epi<g ref="char:EOLhyphen"/>ſtell and Goſpell of that maſſe, in Engliſhe, &amp; not in Latyn, in the pulpit, or in ſuche conue<g ref="char:EOLhyphen"/>nient place, as the people may heare the ſame. And alſo euery Sondaye and holy daye, they ſhall playnely and diſtinctely, reade, or cauſe to be redde, one chapiter of the new teſtament in Engliſhe, in the ſayde place at Matyns, im<g ref="char:EOLhyphen"/>mediately after the leſſons, and at Eue<g ref="char:cmbAbbrStroke">̄</g>ſonge, after <hi>Magnificat,</hi> one Chapyter off the olde
+<pb facs="tcp:191709:9"/> Teſtame<g ref="char:cmbAbbrStroke">̄</g>t. And to the inte<g ref="char:cmbAbbrStroke">̄</g>t the premiſſes, may be more conueniently done: The Kynges ma<g ref="char:EOLhyphen"/>ieſties pleaſure is, that whe<g ref="char:cmbAbbrStroke">̄</g>. ix. leſſons ſhould be redde in the Churche, thre of them ſhalbe o<g ref="char:EOLhyphen"/>mitted, and left out with their reſpondes. And at Euenſonge tyme, the reſpondes with al the memories ſhalbe left of, for that purpoſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> 
+               <hi>ALSO,</hi> becauſe thoſe perſones, whiche be ſicke, and in perel of death, be oftentymes put in diſpaire, by the craft and ſubtiltie of y<hi rend="sup">e</hi> de<g ref="char:EOLhyphen"/>uill, who is then moſt buſy, and ſpecially with them, that lacke the knowledge, ſure perſwa<g ref="char:EOLhyphen"/>ſio<g ref="char:cmbAbbrStroke">̄</g>, and ſtedfaſt belief, that they maye be made partakes of the greate and infinite mercye, whiche almightye God, of his moſte bou<g ref="char:cmbAbbrStroke">̄</g>tiful goodnes, and meere liberalitie, without oure deſeruinge, hath offered frely to all perſons, that putteth their full truſt and confidence in him: Therfore, that this damnable vice of diſ<g ref="char:EOLhyphen"/>paire, maye be clerely taken awaye, and firme belefe, and ſtedfaſt hope, ſurely conceyued of all their pariſhyoners, beyng in any dau<g ref="char:cmbAbbrStroke">̄</g>gier, they ſhall learne, and haue alwayes in a redy<g ref="char:EOLhyphen"/>nes, ſuche confortable places and ſentences of ſcripture, as do ſetfurth the mercy, benefi<g ref="char:EOLhyphen"/>tes and goodnes of almighty God, towardes all penitent, and beleuyng perſones, that they may at all tymes, when neceſſitie ſhal require, promptly comfort their flocke, with the liuely woorde of God, whiche is the onely ſtaye of mans conſcience.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> 
+               <pb facs="tcp:191709:9"/>
+               <hi>ALSO,</hi> to auoyde all contencion and ſtrief, whiche hertofore hath riſen, emo<g ref="char:cmbAbbrStroke">̄</g>g the kynges Maieſties ſubiectes, in ſondrie places of his Realmes and dominions, by reaſon of fonde curteſie, and chalengyng of places in proceſſi<g ref="char:EOLhyphen"/>on, and alſo that they maie the more quietely, heare that whiche is ſaied or ſong, to their ede<g ref="char:EOLhyphen"/>fiyng: they ſhall not from henſefurthe, in any pariſhe churche, at any time vſe any proceſſio<g ref="char:cmbAbbrStroke">̄</g>, about the Churche or Churche yarde, or other place, but immediately before high Maſſe, the prieſtes with other of the queire, ſhal kneele in the middes of the Churche, and ſynge or ſaye, plainly &amp; diſtinctly, the Letany, whiche is ſet<g ref="char:EOLhyphen"/>furthe in Engliſhe, with al the Suffrages fo<g ref="char:EOLhyphen"/>lowyng, and none other Proceſſion, or Letany to be had or vſed, but the ſaied Letanie in En<g ref="char:EOLhyphen"/>gliſh, addyng nothyng therto, but as the kyn<g ref="char:EOLhyphen"/>ges grace, ſhall hereafter appoynt: and in Ca<g ref="char:EOLhyphen"/>thedrall or Collegiate churches, theſame ſhal<g ref="char:EOLhyphen"/>be doen in ſuche places, as our Commiſſaries in oure viſitacion ſhall appoynte. And in the tyme of the Letanie, of the high Maſſe, of the Sermon, and when the prieſt readeth the ſcri<g ref="char:EOLhyphen"/>pture to the pariſhioners, no maner of perſo<g ref="char:EOLhyphen"/>nes, without a iuſte and vrgent cauſe, ſhal de<g ref="char:EOLhyphen"/>parte out of the Churche: and all ringing and knowlynge of Belles, ſhalbe vtterly forborne for that tyme, excepte one Belle, in conuenient time, to be ro<g ref="char:cmbAbbrStroke">̄</g>g or knowled before the Sermo<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/> 
+               <hi>ALSO,</hi> like as the people be commonly oc<g ref="char:EOLhyphen"/>cupied
+<pb facs="tcp:191709:10"/> on the worke day, with bodily labor, for their bodely ſuſtenaunce: ſo was the holy daye at the firſte beginninge Godly inſtituted and ordeined, that the people ſhould that day, geue themſelfes wholy to God. And wheras in oure tyme, God is more offended then pleaſed, more diſhonored, then honored, vpon the holy daye, becauſe of idlenes, pryde, drunckenneſſe, que<g ref="char:EOLhyphen"/>rellyng, and brawlyng, whiche are moſte vſed, in ſuche dayes, people neuertheleſſe, perſwa<g ref="char:EOLhyphen"/>dinge themſelfes, ſufficiently to honor God on that daie, if thei heare Maſſe &amp; ſeruice, though they vnderſtande nothyng, to their edefiynge: therfore all the Kynges faithfull and louynge ſubiectes, ſhall from henſefurth celebrate, and kepe their holy daye, accordynge to Gods ho<g ref="char:EOLhyphen"/>ly wil &amp; pleaſure, that is: in hearyng the worde of God redde and taughte: in priuate and pu<g ref="char:EOLhyphen"/>blique praiers: in knowledging their offences to God, and amendement of theſame: in recon<g ref="char:EOLhyphen"/>cilynge their ſelfes charitably to their neigh<g ref="char:EOLhyphen"/>bors, where diſpleaſure hath been: in often ty<g ref="char:EOLhyphen"/>mes receiuinge the communio<g ref="char:cmbAbbrStroke">̄</g>, of the very bo<g ref="char:EOLhyphen"/>die and bloudde of Chriſte: in viſitynge of the poore &amp; ſicke: in vſyng all ſobernes, and godly conuerſacion, Yet notwithſtandynge, all Per<g ref="char:EOLhyphen"/>ſones, Vicars, and Curates, ſhall teache and declare, vnto their pariſhioners, that thei may with a ſaufe and quiete conſcience, in the tyme of Harueſte, labor vpon the holy and feſtiuall dayes, and ſaue that thyng whiche God hath
+<pb facs="tcp:191709:10" rendition="simple:additions"/> ſent. And if for any ſcrupuloſitie, or grudge of conſcience, men ſhould ſuperſticiouſly, abſtain from working vpon thoſe daies, that then they ſhould greuouſly offende and diſpleaſe God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25"/> 
+               <hi>ALSO,</hi> foraſmuche as variaunce and con<g ref="char:EOLhyphen"/>tencion, is a thynge whiche moſte diſpleaſeth God, and is moſte contrary to the bleſſed com<g ref="char:EOLhyphen"/>munion of the body and bloude of oure ſauior Chriſte: Curates ſhall in nowiſe admitt to the receyuinge therof, any of their cure and flocke, who hath maliciouſly and openly contended with his neighbor, onles theſame do firſte cha<g ref="char:EOLhyphen"/>ritably and openly, reconcile hym ſelf agayne, remittynge all rancor and malice, whatſoeuer controuerſie hath been betwene theim: and ne<g ref="char:EOLhyphen"/>uertheleſſe, their iuſte titles and rightes, they may charitably, proſecute before ſuche as haue aucthoritie to heare theſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26"/> 
+               <hi>ALSO,</hi> that euery Deane, Archedeacon, Maſter of Collegiate churche, Maſter of Ho<g ref="char:EOLhyphen"/>ſpitall, and Prebendary, beynge Prieſte, ſhall preache by himſelf perſonally, twiſe euery yere at the leaſte, either in the place, where he is en<g ref="char:EOLhyphen"/>tituled, or in ſome Churche, where he hath iu<g ref="char:EOLhyphen"/>riſdiccion, or els whiche is to the ſaid place ap<g ref="char:EOLhyphen"/>propriate, or vnited,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27"/> 
+               <hi>ALSO,</hi> that they ſhal inſtructe and teache in their Cures, that no man ought obſtinately, and maliciouſly, breake and violate, the lau<g ref="char:EOLhyphen"/>dable Ceremonies of the Churche, by the kyng commaunded, to be obſerued, and as yet not
+<pb facs="tcp:191709:11"/> abrogated. And on the otherſide, that whoſoe<g ref="char:EOLhyphen"/>uer doth ſuperſticiouſly abuſe theim, doth the ſame to the greate periel and daungier of hys ſoule healthe: as in caſtinge holy Water vpon hys bedde, vpon Images, and other dedde thinges, or bearinge aboute hym holy breade, or ſainct Ihons Goſpell, or makynge Croſſes of woodde vpon Palme Sundaye, in tyme of readinge of the Paſſion, or kepinge of priuate holy dayes, as Bakers, Brewers, Smithes, Shoomakers, &amp; ſuche other do, or ringing of y<hi rend="sup">e</hi> holy Belles, or bleſſing with the holy candel, to thintent, therby to be diſcharged of the bur<g ref="char:EOLhyphen"/>den of ſynne, or to driue awaie Deuilles, or to put awaie dreames and phantaſies, or in put<g ref="char:EOLhyphen"/>tinge truſte and confidence of healthe and ſal<g ref="char:EOLhyphen"/>uacion, in theſame Ceremonies: when they be onely ordeyned, inſtituted and made, to put vs in remembraunce of the benefites, whiche wee haue receyued by Chriſte. And if he vſe theim for any other purpoſe, he greuouſly offendeth GOD.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28"/> 
+               <hi>ALSO,</hi> that they ſhall take awaye, vtterly extincte, and deſtroye, all ſhrines, couerynge of ſhrines, all tables, candelſtickes, tryndilles or rolles of waxe, pictures, paintynges, and all other monumentes of fained miracles, pilgre<g ref="char:EOLhyphen"/>mages, Idolatry, and ſuperſticio<g ref="char:cmbAbbrStroke">̄</g>: ſo that there remain, no memory of theſame, in walles, glaſ<g ref="char:EOLhyphen"/>ſes, windowes, or els where, within their chur<g ref="char:EOLhyphen"/>ches or houſes. And they ſhall exhorte all their
+<pb facs="tcp:191709:11"/> pariſhioners, to doo the lyke within their ſeue<g ref="char:EOLhyphen"/>rall houſes. And that the Churche Wardey<g ref="char:EOLhyphen"/>nes, at the common charge of the pariſhioners in euery Churche, ſhall prouide a comely and honeſt pulpitte, to be ſet in a conuenient place within theſame, for the preachynge of Gods woorde.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="29"/> 
+               <hi>ALSO,</hi> thei ſhall prouide, and haue within three monethes after this viſitacion, a ſtronge Cheſte, with a hoole in the vpper parte therof, to bee prouided, at the coſte and charge of the pariſhe, hauyng three keyes, whereof, one ſhall remayne in the cuſtodie, of the Perſone, Vy<g ref="char:EOLhyphen"/>car, or Curate, and the other twoo, in the cu<g ref="char:EOLhyphen"/>ſtodie of the Churche Wardeynes, or any o<g ref="char:EOLhyphen"/>ther twoo honeſte men, to be appoynted, by the pariſhe, from yere to yere. Whiche Cheſte, you ſhall ſette and faſten, nere vnto the highe aul<g ref="char:EOLhyphen"/>ter, to the intente, the Pariſhioners, ſhoulde putte into it, their Oblacion and almoſe, for their poore neighbours. And the Perſone, Vi<g ref="char:EOLhyphen"/>car, and Curate, ſhall diligently, from tyme to tyme, and ſpecially, when men make their Te<g ref="char:EOLhyphen"/>ſtamentes, call vpon, exhorte, and moue their neighboures, to conferre and geue, (as they maye well ſpare) to the ſayde Cheſte: declaring vnto theim, whereas heretofore they haue been diligente, to beſtowe muche ſubſtaunce, otherwyſe then GOD commaunded, vpon Pardons, Pylgrymages, Trentalles, dec<g ref="char:EOLhyphen"/>kynge of Images, offerynge of Candelles,
+<pb facs="tcp:191709:12"/> geuyng to Friers, &amp; vpon other like blynd de<g ref="char:EOLhyphen"/>uocions, they ought at this tyme, to be muche more ready to helpe the poore and nedy, know<g ref="char:EOLhyphen"/>yng that to releue the poore, is a true worſhip<g ref="char:EOLhyphen"/>ping of God, required earneſtly, vpon payn of euerlaſtyng dampnacion: and that alſo, what<g ref="char:EOLhyphen"/>ſoeuer is geuen for their comforte, is geuen to Chriſt hym ſelf, and ſo is accepted of hym, that he will mercifully, rewarde theſame with euer<g ref="char:EOLhyphen"/>laſtinge life. The whiche almoſſe, and deuocio<g ref="char:cmbAbbrStroke">̄</g> of the people, the kepers of the keyes, ſhall at tymes conuenient, take out of the Cheſte, and diſtribute theſame, in the preſence of the whole pariſhe, or ſixe of theim, to be truly and faithe<g ref="char:EOLhyphen"/>fully deliuered, to their moſte nedy neighbors: and if they be prouided for, then to the repara<g ref="char:EOLhyphen"/>cion of high waies, nexte adioynyng. And alſo the money whiche riſeth of fraternities, guyl<g ref="char:EOLhyphen"/>des, and other ſtockes of the Church (except by the Kynges Maieſties aucthoritie, it be other<g ref="char:EOLhyphen"/>wiſe appoynted) ſhalbe put into the ſaid cheſt, and conuerted to the ſaid vſe, and alſo the ren<g ref="char:EOLhyphen"/>tes of landes, the profite of cattaill, and money geuen or bequethed, to the findyng of torches, lightes, tapers, and lampes, ſhalbe conuerted to the ſayde vſe, ſauyng that it ſhalbe lawfull for them, to beſtowe parte of the ſayd profites, vpon the reparacion of the Churche, if greate neede require, and whereas the Pariſhe is very poore, and notable otherwyſe to repaire theſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="30"/> 
+               <pb facs="tcp:191709:12"/>
+               <hi>AND</hi> for aſmuche as Prieſtes be publique miniſters of the Churche, and vpon the holy daies, ought to applie theim ſelfes, to the com<g ref="char:EOLhyphen"/>mon adminiſtracion of the whole pariſhe, they ſhall not be bounde to go to women liynge in chyld bedde, except in tyme of daungerous ſic<g ref="char:EOLhyphen"/>kenes, and not to fetche any corſe, before it be brought to the Churche yarde: &amp; if the woman be ſicke, or the corſe brought to the Church, the Prieſt ſhall do his duetie accordingly, in viſi<g ref="char:EOLhyphen"/>tyng the woman, and buriyng the deed perſon.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="31"/> 
+               <hi>ALSO,</hi> to auoide the deteſtable ſynne of ſy<g ref="char:EOLhyphen"/>mony, becauſe biyng and ſellyng of benefices, is execrable before God: Therfore, al ſuch per<g ref="char:EOLhyphen"/>ſones as bye any benefices, or come to them by fraude or deceipte, ſhalbe depriued of ſuche benefices, and be made vnhable at any tyme after, to receyue any other ſpiritual promocio<g ref="char:cmbAbbrStroke">̄</g>. And ſuche as do ſell them, or by any colour do beſtowe them, for their awne gain and profite, ſhall loſe their righte and title of patronage, and preſentement for that tyme, and the gifte therof for that vacacion, ſhall apperte in to the Kynges Maieſtie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="32"/> 
+               <hi>ALSO,</hi> becauſe through lacke of preachers in many places of the Kinges realmes and do<g ref="char:EOLhyphen"/>minions, the people continue in ignoraunce and blyndenes: all Perſones, Vicars, and Curates, ſhall reade in their Churches, euery Sondaye, one of the Homilies, whiche are and ſhalbe ſethfurthe, for theſame purpoſe, by
+<pb facs="tcp:191709:13"/> the Kynges aucthoritie, in ſuche ſorte, as they ſhalbe appoynted to doo, in the preface of the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="33"/> 
+               <hi>ALSO,</hi> whereas many indiſcrete perſones, doo at this daye, vncharitably contempne and abuſe prieſtes and miniſters of the Church, be<g ref="char:EOLhyphen"/>cauſe ſome of them, (hauinge ſmall learninge) haue of long time fauoured phantaſies, rather then Gods truthe: yet for aſmuche, as their office and funccion, is appoynted of God: The Kynges Maieſtie willeth and chargeth, al his louynge ſubiectes, that from henſefurthe, they ſhall vſe theim charitably and reuerently, for their office and miniſtracion ſake, and eſpeci<g ref="char:EOLhyphen"/>ally, all ſuche as labor in the ſettynge furth of Gods holy woorde.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="34"/> 
+               <hi>ALSO,</hi> that all maner of perſones, whiche vnderſtande not the Latin toungue, ſhall pray vpon none other Primer, but vpon that, whi<g ref="char:EOLhyphen"/>che was lately ſetfurth in Engliſhe, by auctho<g ref="char:EOLhyphen"/>ritie of Kynge Henry the .VIII. of moſte fa<g ref="char:EOLhyphen"/>mous memorie. And that no teacher of youth, ſhall teache any other, then the ſayde Prymer. And all thoſe, whiche haue knowledge of the latin toungue, ſhall pray vpon none other la<g ref="char:EOLhyphen"/>tin Primer, but vpon that, whiche is likewiſe ſetfurthe by the ſayde aucthoritie. And that all graces to be ſayde at dyner and ſupper, ſhal be alwaies ſayde in the Engliſhe toungue. And that none other Grammer, ſhalbe taught in a<g ref="char:EOLhyphen"/>ny Schoole or other place, within the Kynges
+<pb facs="tcp:191709:13" rendition="simple:additions"/> realmes and dominions, but onely that which is ſet furth by the ſayde aucthoritie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="35"/> 
+               <hi>ITEM,</hi> that all Chauntrie Prieſtes, ſhall exerciſe them ſelfes, in teachyng youth to read and write, and bringyng them vp in good ma<g ref="char:EOLhyphen"/>ners, and other vertuous exerciſes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="36"/> 
+               <hi>ITEM,</hi> when any Sermon or Homilye ſhalbe had, the Pryme and Houres ſhalbe o<g ref="char:EOLhyphen"/>mitted.</p>
+            <div type="part">
+               <head>
+                  <g ref="char:leaf">❧</g> The fourme of biddyng the common prayers.</head>
+               <p>
+                  <hi>YOV</hi> ſhall praye for the whole congregacio<g ref="char:cmbAbbrStroke">̄</g> of Chriſtes Churche, and ſpeciallie, for thys Churche of Englande and Irelande: wherin, firſt, I commende to your deuoute praiers, the kynges moſte excellent Maieſtie, ſupreme hed ymmediately vnder GOD, of the ſpiritualtye and temporaltie of theſame Churche: And for Quene Katharine dowag<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r, and alſo for my ladie Mary, and my ladie Elizabeth, the Kyn<g ref="char:EOLhyphen"/>ges ſuſters.</p>
+               <p>
+                  <hi>SECONDLY</hi> you ſhall praye for my lorde Protectors grace, with all the reſte of the kyn<g ref="char:EOLhyphen"/>ges Maieſties Counſaill: for all the lordes of this realme, and for the Cleargie, and the com<g ref="char:EOLhyphen"/>mons of theſame: beſechynge almightie God, to geue euery of theim, in hys degree, grace to
+<pb facs="tcp:191709:14"/> vſe the<g ref="char:cmbAbbrStroke">̄</g>ſelfes in ſuche wiſe, as maye be to God<g ref="char:EOLhyphen"/>des glorie, the Kynges honor, and the weale of this realme.</p>
+               <p>
+                  <hi>THIRDELY,</hi> you ſhall praye, for all them that be departed out of this world, in the fayth of Chriſte, that they with vs, and we with them at the daye of Iudgement, maye reſt both bo<g ref="char:EOLhyphen"/>dy and ſoule, with Abraha<g ref="char:cmbAbbrStroke">̄</g>, Iſaac, and Iacob, in the kyngdom of heauen.</p>
+            </div>
+            <div type="conclusion">
+               <p>
+                  <hi>
+                     <seg rend="decorInit">A</seg>LL</hi> whiche and ſynguler Iniunc<g ref="char:EOLhyphen"/>cions, the kynges Maieſtie, miniſte<g ref="char:EOLhyphen"/>reth vnto his Clergie, and their ſuc<g ref="char:EOLhyphen"/>ceſſours, and to all other his louyng ſubiectes: ſtraightly chargynge and commau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>dinge them, to obſerue and kepe theſame, vpon payne of depriuacio<g ref="char:cmbAbbrStroke">̄</g>, ſequeſtracion of fruictes of benefices, ſuſpenſion, excommunicacio<g ref="char:cmbAbbrStroke">̄</g>, and ſuche other cohercion, as to Ordinaries or other hauyng Eccleſiaſtical iuriſdiccio<g ref="char:cmbAbbrStroke">̄</g>, whom his Maieſtie hath appoynted for the due exe<g ref="char:EOLhyphen"/>cucion of the ſame, ſhalbe ſene co<g ref="char:cmbAbbrStroke">̄</g>uenient: char<g ref="char:EOLhyphen"/>gyng and commaundyng them, to ſe theſe In<g ref="char:EOLhyphen"/>iunccions, obſerued and kepte of all perſones, beynge vnder their Iuriſdiccion, as they wyll aunſwere to hys Maieſtie for the co<g ref="char:cmbAbbrStroke">̄</g>trary. And hys Maieſties pleaſure is, that euery Iu<g ref="char:EOLhyphen"/>ſtice of peace (beyng required) ſhall aſ<g ref="char:EOLhyphen"/>ſiſt the Ordinaries, and euery of them, for the due execucion of the ſayde Iniunccions.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
